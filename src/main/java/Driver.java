@@ -76,7 +76,7 @@ public class Driver {
         parser.close();
         try {
             Jsonobject jsonobject = new Jsonobject();
-            jsonobject.geocoding("1600+Amphitheatre+Parkway,\n+Mountain+View");
+            jsonobject.geocoding("Rohith-hacker");
         } catch (Exception e) {
             e.printStackTrace();
         }
