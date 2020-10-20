@@ -1,0 +1,16 @@
+{
+  "id" : 100,
+  "title" : "Jackson JSON API",
+  "description" : "github API parse example using Jackson",
+  "content" : "HTML content here",
+  "list" : [ {
+    "id" : 1,
+    "name" : "JSON"
+  }, {
+    "id" : 2,
+    "name" : "Java"
+  }, {
+    "id" : 3,
+    "name" : "Jackson"
+  } ]
+}
